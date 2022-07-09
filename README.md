@@ -14,7 +14,7 @@ Landing page of a fictional startup called "Omnifood"
 
 ## 💻 Demonstration
 
-The project is available at [krishan-mohan.github.io/sample-tech/](krishan-mohan.github.io/sample-tech/)
+The project is available at [Sample-tech]([krishan-mohan.github.io/sample-tech/](https://krishan-mohan.github.io/sample-Tech/))
 
 
 ## 🛠️ Technologies Used:-
