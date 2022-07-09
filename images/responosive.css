@@ -1,0 +1,34 @@
+@media(max-width: 767px) {
+    /* .navbar,
+    .services,
+    .number,
+    .projects,
+    .team,
+    .testimonials,
+    .blogs,
+    .footer {
+        flex: 0 0 100%;
+        max-width: 100%;
+    } */
+    .navbar ul a {
+        margin: 77px;
+        padding-bottom: 20px;
+    }
+    .logo {
+        margin-bottom: 90px;
+    }
+    .label {
+        width: 45px;
+        height: 25px;
+        margin-left: 30px;
+    }
+    .hero-img img {
+        margin-right: 190px;
+        width: 256px;
+        height: 315px;
+        margin-top: 219px;
+    }
+    .navbar ul li a.ctn {
+        height: 240px;
+    }
+}
