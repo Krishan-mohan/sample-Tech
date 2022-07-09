@@ -2,11 +2,11 @@
 
 - it's simple tech-website
 
-# Landing Page Omnifood
+# Landing Page Tech-King
 
 </h2>
 <div align="center">
-  <img alt="Demo" src="./img/Screenshot (75).png" />
+  <img alt="Demo" src="./Img/img-1.png" />
 </div>
 
 ## 📖 Description
@@ -14,7 +14,7 @@ Landing page of a fictional startup called "Omnifood"
 
 ## 💻 Demonstration
 
-The project is available at [Sample-tech](https://krishan-mohan.github.io/sample-Tech/))
+The project is available at [Sample-tech](https://krishan-mohan.github.io/sample-Tech/)
 
 
 ## 🛠️ Technologies Used:-
